@@ -116,7 +116,7 @@ pyinstaller --onefile --noconsole --icon=icon.ico file_organizer_pro.py
 
 ## 🖥️ **Features Screenshot**
 
-*(Add screenshots of your app interface here.)*
+
 
 ---
 
@@ -156,9 +156,5 @@ Developed by **Martin Raphael**.
 
 ## 🌟 **If you find this project helpful, give it a ⭐ on GitHub!**
 
----
 
-## ✅ **Next Step:**
 
-👉 **Want me to generate the `requirements.txt` file for this project? Just say:
-"Yes, generate requirements.txt"**
