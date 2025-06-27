@@ -114,7 +114,7 @@ pyinstaller --onefile --noconsole --icon=icon.ico file_organizer_pro.py
 
 ---
 
-## 🖥️ **Features Screenshot**
+
 
 
 
